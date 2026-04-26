@@ -1,0 +1,11 @@
+{
+  "channels": [
+    {"name": "engineering"},
+    {"name": "product"},
+    {"name": "random"}
+  ],
+  "users": [
+    {"id": "U001", "name": "alice", "email": "alice@example.com"},
+    {"id": "U002", "name": "bob", "email": "bob@example.com"}
+  ]
+}
