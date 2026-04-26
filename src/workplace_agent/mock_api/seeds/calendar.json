@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "title": "Engineering standup",
+      "start": "2026-04-27T09:30:00+00:00",
+      "end": "2026-04-27T10:00:00+00:00",
+      "attendees": ["alice@example.com", "bob@example.com"],
+      "description": "Daily team standup."
+    },
+    {
+      "title": "Design review: payments",
+      "start": "2026-04-29T14:00:00+00:00",
+      "end": "2026-04-29T15:00:00+00:00",
+      "attendees": ["alice@example.com"],
+      "description": "Review proposed payments architecture."
+    },
+    {
+      "title": "All-hands",
+      "start": "2026-04-30T16:00:00+00:00",
+      "end": "2026-04-30T17:00:00+00:00",
+      "attendees": ["alice@example.com", "bob@example.com"],
+      "description": "Company-wide update."
+    }
+  ]
+}

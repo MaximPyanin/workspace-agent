@@ -1,0 +1,24 @@
+{
+  "issues": [
+    {
+      "key": "ENG-1",
+      "project": "ENG",
+      "summary": "Set up CI pipeline",
+      "description": "Configure GitHub Actions for build and test on pull requests.",
+      "status": "Done",
+      "assignee": "alice",
+      "created_at": "2026-04-15T09:00:00+00:00",
+      "updated_at": "2026-04-18T17:30:00+00:00"
+    },
+    {
+      "key": "ENG-2",
+      "project": "ENG",
+      "summary": "Investigate auth token refresh bug",
+      "description": "Users report being logged out unexpectedly after ~1h.",
+      "status": "In Progress",
+      "assignee": "bob",
+      "created_at": "2026-04-22T11:00:00+00:00",
+      "updated_at": "2026-04-24T16:00:00+00:00"
+    }
+  ]
+}
